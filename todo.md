@@ -1,0 +1,4 @@
+- [] Create buckets/regions
+- [] Label to regions
+- [] Streaming regions?
+- [] visualizing the regions firing
